@@ -18,7 +18,7 @@ namespace Test_form_CNO
         }
 
         /* 
-         * NAAM: Willekens Stijn
+         * NAAM: Leen vansteelandt
          */
 
 
